@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "試される（2020 ver.）",
+  "base_artist": "Base Ball Bear",
+  "createdAt": "2025-12-17T15:49:32.357975Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "試される(2020 ver.)",
+      "artist": "BaseBallBear",
+      "has_synced": false,
+      "path": "select/pl_01_試される(2020_ver.)_BaseBallBear.txt"
+    }
+  ]
+}
